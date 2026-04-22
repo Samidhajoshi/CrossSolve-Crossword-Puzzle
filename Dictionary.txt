@@ -1,0 +1,1366 @@
+# Crossword Dictionary
+# Format: WORD|Clue|Hint
+CAT|A small furry pet|It meows
+CAR|A four wheeled vehicle|Used for driving
+CAN|A metal container|Stores food
+RAT|A small rodent|Rhymes with cat
+BAT|Used in cricket|Flying mammal
+BAG|Used to carry things|You take it to school
+MAP|Used for navigation|Helps you find the way
+MAN|An adult male|Opposite of woman
+ANT|A tiny insect|Lives in a colony
+ART|Creative expression|Painting and drawing
+ARM|Part of the body|Connects to your hand
+SUN|Centre of solar system|Rises in the east
+SAT|Past tense of sit|He sat down
+TAN|A brown skin colour|From the sun
+TIN|A metal container|Shiny metal
+TAP|A device controlling water|Found in kitchen
+NAP|A short sleep|Afternoon rest
+NET|Used to catch fish|Also used in tennis
+PAN|A flat cooking vessel|Used on stove
+PAT|To touch gently|Stroke a dog
+PIN|A thin pointed object|Used in sewing
+PIT|A deep hole in ground|Hollow space
+RAN|Past tense of run|He ran fast
+RAG|A torn piece of cloth|Used for cleaning
+RIM|Edge of a circular object|Edge of a wheel
+ROT|To decay|Food goes bad
+NIT|A tiny insect egg|Found in hair
+TIP|End of something sharp|Top of iceberg
+RIG|A large truck|Oil platform
+MAT|A flat piece of fabric|Placed at the door
+RAIN|Water falling from clouds|Makes things wet
+MAIN|Most important|Primary thing
+MANE|Hair of a lion|Around its neck
+MINE|Belonging to me|Also underground tunnel
+MINT|A herb used in cooking|Also makes coins
+HINT|A small clue|Helps you guess
+HAND|Part of the body|At end of arm
+BAND|A group of musicians|Also a strip of material
+SAND|Tiny grains found at beach|Found in desert
+LAND|Solid ground|Opposite of sea
+RANK|A position or level|Military grade
+TANK|Container for liquid|Also a war vehicle
+SANK|Past tense of sink|The ship sank
+LANK|Thin and tall|Long and lean
+RANT|To speak angrily|Angry speech
+PANT|To breathe heavily|Also trousers
+RENT|Payment for using property|Monthly payment
+DENT|A small hollow in surface|Car damage
+BENT|Not straight|Curved shape
+SENT|Past tense of send|He sent a letter
+TENT|Temporary shelter|Used for camping
+VENT|An opening for air|Air passage
+NEST|Home built by a bird|Made of twigs
+BEST|Most excellent|Top of the list
+REST|To relax|Take a break
+TEST|An examination|Check knowledge
+PEST|An annoying insect|Garden problem
+LAST|Final in a series|End of the line
+FAST|Moving quickly|Also not eating
+PAST|Time gone by|History
+CAST|To throw|Also actors in film
+MAST|Tall pole on a ship|Holds the sail
+VAST|Very large|Enormous size
+LOST|Unable to find way|Cannot be found
+COST|Amount to be paid|Price of something
+MOST|Greatest in amount|Maximum
+POST|A pole or mail system|Also job position
+RUST|Reddish coating on iron|Metal decay
+DUST|Fine dry particles|Settles on surfaces
+JUST|Fair and right|Also only recently
+MUST|Something necessary|Obligation
+GUST|A sudden strong wind|Burst of wind
+BURN|To be on fire|Fire damage
+TURN|To rotate|Change direction
+BORN|Came into existence|Day of birth
+CORN|A yellow grain|Grows in fields
+HORN|A musical instrument|Also on animals
+WORN|Used a lot|Old and tired
+TORN|Ripped apart|Damaged cloth
+BARN|A farm building|Houses animals
+YARN|A type of thread|Used for knitting
+EARN|To get money by working|Receive wages
+FEAR|A feeling of danger|Being scared
+DEAR|Loved or expensive|Term of affection
+HEAR|To sense sound|Using your ears
+NEAR|Close in distance|Not far away
+YEAR|Period of twelve months|Three sixty five days
+BEAR|A large wild animal|Lives in forest
+GEAR|Equipment or mechanism|Also bicycle gears
+TEAR|To rip apart|Also from crying
+WEAR|To put on clothing|Dress yourself
+PLANT|A living organism that grows in soil|Needs water and sunlight
+BRAIN|The organ inside your skull|Controls your body
+CHAIR|A piece of furniture to sit on|Has four legs
+CLOCK|A device that shows time|Has hands and numbers
+CLOUD|Water vapour in the sky|Brings rain
+CROWN|Worn by a king or queen|Made of gold
+CRANE|A large bird or lifting machine|Used in construction
+DRINK|To swallow liquid|Quench your thirst
+DREAM|Images seen while sleeping|Happens at night
+EARTH|The planet we live on|Third from the sun
+FAULT|A mistake or crack in ground|Tectonic plates
+FLAME|The glowing part of fire|Hot and bright
+FLASH|A sudden burst of light|Lightning produces this
+FLOAT|To rest on surface of water|Cork does this
+FLOOR|The bottom surface of a room|You walk on it
+FROST|Ice crystals formed on surfaces|Cold morning coating
+FRUIT|Edible product of a plant|Sweet and healthy
+GIANT|Something very large|Fee fi fo fum
+GLASS|A transparent material|Windows are made of this
+GLOOM|Darkness or sadness|Dim light
+GRACE|Elegant movement|Swan like quality
+GRADE|A level or mark|School result
+GRAIN|A small hard seed|Wheat and rice
+GRAND|Large and impressive|Magnificent scale
+GRANT|To give or allow|Permission given
+GRASS|Green plant covering ground|Lawn is made of this
+GRAVE|A place of burial|Found in cemetery
+GREAT|Very good or large|Excellent quality
+GREEN|The colour of grass|Between blue and yellow
+GRIND|To crush into powder|Coffee beans process
+GROAN|A deep sound of pain|Sound of suffering
+GROVE|A small group of trees|Mini forest
+GROWL|A low threatening sound|Dog warning sound
+GUARD|To protect or watch over|Security person
+GUEST|A visitor to your home|Invited person
+GUIDE|Someone who shows the way|Tour leader
+GUILT|Feeling of having done wrong|Conscience pain
+HABIT|A regular pattern of behaviour|Daily routine
+HEART|The organ that pumps blood|Symbol of love
+HEAVY|Having great weight|Hard to lift
+HEDGE|A row of bushes|Garden boundary
+HERBS|Plants used in cooking|Basil and thyme
+HINGE|A joint that allows turning|Door attachment
+HORSE|A large animal used for riding|Gallops fast
+HOTEL|A building providing accommodation|Travellers stay here
+HOUSE|A building where people live|Home sweet home
+HUMAN|Relating to people|Homo sapiens
+HUMOR|The ability to be funny|Makes people laugh
+IDEAL|Perfect or most suitable|Best possible
+IMAGE|A picture or representation|Visual copy
+INDEX|An alphabetical list|Back of a book
+INNER|Located inside|Interior part
+INPUT|Information entered into system|Data provided
+IRONY|Opposite of what is expected|Sarcastic humour
+ISSUE|A problem or topic|Matter at hand
+IVORY|A creamy white material|From elephant tusks
+JEWEL|A precious stone|Diamond or ruby
+JUDGE|A person who makes decisions|Court official
+JUICE|Liquid from fruit|Orange drink
+JUNGLE|Dense tropical forest|Wild animals live here
+KNIGHT|A warrior on horseback|Chess piece
+KNIFE|A sharp cutting tool|Kitchen utensil
+KNOCK|To strike a surface|Tap on the door
+KNOWN|Recognised or familiar|Well understood
+LABEL|A tag with information|Attached to clothing
+LANCE|A long weapon used by knights|Jousting weapon
+LARGE|Greater than average size|Bigger than medium
+LASER|A focused beam of light|Used in surgery
+LATER|After the present time|Not now but soon
+LAUGH|To express amusement|Ha ha ha
+LAYER|A thickness of material|One level of many
+LEARN|To gain knowledge|Study and understand
+LEAVE|To go away from|Depart a place
+LEGAL|Permitted by law|Lawful action
+LEVEL|A flat horizontal surface|Even and straight
+LIGHT|Electromagnetic radiation we see|Opposite of dark
+LIMIT|A point beyond which you cannot go|Maximum boundary
+LINEN|A type of fabric|Made from flax
+LIVER|An organ in the body|Filters blood
+LOCAL|Relating to a nearby area|Neighbourhood thing
+LOGIC|Reasoning and analysis|Sound thinking
+LOOSE|Not tight or fixed|Opposite of tight
+LOWER|To move something down|Reduce the height
+LUCKY|Having good fortune|Fortune favours this
+LUNAR|Relating to the moon|Moon based
+MAGIC|Mysterious power|Conjured by wizards
+MAJOR|Greater in importance|Primary subject
+MAPLE|A type of tree|Produces syrup
+MARCH|To walk in a military manner|Also third month
+MATCH|A contest or a fire starter|Competition or flame
+MAYOR|Head of a city government|City leader
+MEDAL|An award for achievement|Given at Olympics
+MERCY|Compassion shown to others|Kindness to enemies
+METAL|A hard shiny material|Iron and gold
+MICRO|Very small|Tiny scale
+MIGHT|Power or strength|Could possibly
+MINOR|Lesser in importance|Small scale
+MINUS|A subtraction sign|Take away
+MODEL|A representation or example|Fashion person
+MONEY|Currency used for payment|Coins and notes
+MONTH|A period of about 30 days|January to December
+MORAL|Relating to right and wrong|Ethical principle
+MOTOR|A machine that produces motion|Engine part
+MOUNT|To climb or attach to|Go up a hill
+MOUSE|A small rodent|Computer device too
+MOUTH|Opening in face for eating|Used for speaking
+MOVED|Changed position|Went from place to place
+MOVIE|A film shown in cinema|Motion picture
+MUSIC|Organised sound|Played on instruments
+NAIVE|Lacking experience|Innocent and simple
+NERVE|A fibre that transmits signals|Part of nervous system
+NIGHT|The period of darkness|Opposite of day
+NOBLE|Having high moral qualities|Aristocratic person
+NOISE|Unwanted sound|Loud disturbance
+NORTH|A direction on the compass|Opposite of south
+NOTED|Famous or well known|Recognised person
+NOVEL|A long written story|Fiction book
+NURSE|A medical professional|Cares for patients
+NYLON|A synthetic fabric|Used in stockings
+OCEAN|A vast body of salt water|Bigger than a sea
+OFFER|To present for acceptance|Put forward a proposal
+OLIVE|A small oval fruit|Used to make oil
+OPERA|A musical drama|Performed on stage
+ORBIT|The path around a planet|Circular space path
+ORDER|An instruction or arrangement|Command given
+ORGAN|A musical instrument or body part|Church music maker
+OTHER|Different or additional|Not the same
+OUTER|Located on the outside|External part
+OWNER|A person who possesses something|Has legal title
+OZONE|A form of oxygen|Protects from UV rays
+PAINT|A coloured liquid for coating|Applied with brush
+PANEL|A flat section or group|Board of experts
+PAPER|A thin material for writing|Made from wood pulp
+PATCH|A piece used to repair|Covers a hole
+PAUSE|A temporary stop|Brief break
+PEACE|Freedom from conflict|Opposite of war
+PEARL|A gem found in oysters|White and lustrous
+PEDAL|A lever operated by foot|Bicycle part
+PENNY|A small coin|One cent
+PHASE|A stage of development|Period of change
+PHONE|A device for communication|Makes calls
+PHOTO|A captured image|Taken by camera
+PIANO|A large musical instrument|Has black and white keys
+PILOT|A person who flies aircraft|Controls the plane
+PIXEL|A tiny dot on screen|Makes up digital image
+PIZZA|A flat baked dish|Italian food
+PLACE|A particular location|Specific spot
+PLAIN|Simple or flat area of land|Without decoration
+PLANE|A flat surface or aircraft|Flies through sky
+PLATE|A flat dish for food|Dinner is served on this
+PLAZA|An open public area|Town square
+PLUCK|To pull sharply|Pick a guitar string
+PLUMB|Exactly vertical|Perfectly straight down
+PLUME|A feather or column of smoke|Bird decoration
+PLUNGE|To jump into water|Dive deep
+POINT|A sharp tip or idea|Sharp end
+POLAR|Relating to the poles|Arctic and Antarctic
+POPPY|A red flowering plant|Remembrance symbol
+PORCH|A covered entrance|Front of house
+POUND|A unit of weight or currency|British money
+POWER|The ability to do something|Energy and strength
+PRESS|To push firmly|Apply pressure
+PRICE|The amount paid for something|Cost of item
+PRIDE|A feeling of satisfaction|Lion group too
+PRIME|Most important or first|Best quality
+PRISM|A transparent object splitting light|Creates rainbow
+PRIZE|A reward for winning|Trophy or medal
+PROBE|To investigate|Space explorer
+PROSE|Written language not in verse|Normal writing
+PROUD|Feeling pleased with achievement|Self satisfied
+PROVE|To show something is true|Demonstrate fact
+PSALM|A sacred song or poem|Biblical hymn
+PUBIC|Relating to the lower abdomen|Anatomical term
+PULSE|Regular beat of heart|Rhythmic throb
+PUNCH|To strike with fist|Also a drink
+PUPIL|A student or part of eye|School learner
+PURSE|A small bag for money|Carries coins
+PUSH|To exert force away|Shove forward
+QUEEN|Female ruler or chess piece|Royal lady
+QUEST|A long search|Adventure journey
+QUICK|Moving fast|Speedy action
+QUIET|Making little noise|Hushed and still
+QUOTA|A fixed share or limit|Allocated amount
+QUOTE|To repeat words|Cited passage
+RADAR|System using radio waves|Detects aircraft
+RADIO|Device for wireless communication|Broadcasts music
+RAISE|To lift up|Increase height
+RALLY|A mass meeting|Political gathering
+RANCH|A large farm|Cowboys work here
+RANGE|A variety or extent|Scope of something
+RAPID|Very fast|Quick movement
+RATIO|A relationship between numbers|Mathematical comparison
+REACH|To stretch out to|Extend towards
+REACT|To respond to something|Answer to stimulus
+REALM|A kingdom or area|Domain of a king
+REBEL|To resist authority|Fight against rules
+REFER|To mention or direct to|Point towards
+REIGN|The rule of a monarch|Royal period
+RELAX|To become less tense|Take it easy
+REPAY|To pay back|Return money owed
+REPLY|A response|Answer given
+RIDER|A person on horseback|Mounted person
+RIDGE|A narrow raised strip|Mountain edge
+RIFLE|A long barrelled gun|Soldier weapon
+RIGHT|Correct or a direction|Opposite of wrong
+RIGID|Not flexible|Stiff and firm
+RISKY|Involving danger|Hazardous action
+RIVAL|A competitor|Someone you compete with
+RIVER|A large natural water flow|Runs to the sea
+ROAST|To cook in dry heat|Sunday dinner
+ROBOT|An automated machine|Artificial worker
+ROCKY|Full of rocks|Uneven surface
+ROMAN|Relating to ancient Rome|Latin civilisation
+ROOMY|Having plenty of space|Spacious area
+ROUGE|A red cosmetic|Cheek colour
+ROUGH|Not smooth|Uneven texture
+ROUND|Circular in shape|No corners
+ROUTE|A path taken|Way to destination
+ROYAL|Relating to a king or queen|Regal status
+RUGBY|A team ball sport|Played with oval ball
+RULER|A measuring tool or leader|Draws straight lines
+RURAL|Relating to the countryside|Not urban
+SADLY|In a sorrowful way|With unhappiness
+SAINT|A holy person|Canonised by church
+SALAD|A dish of raw vegetables|Healthy meal
+SALON|A place for hair styling|Beauty parlour
+SAUCE|A liquid added to food|Tomato or gravy
+SCALE|A measuring device or fish covering|Balance or climb
+SCARE|To frighten|Make someone afraid
+SCENE|A view or part of play|Visual setting
+SCENT|A pleasant smell|Fragrance
+SCORE|Points in a game|Match result
+SCOUT|To search or explore|Observe ahead
+SEIZE|To grab suddenly|Take hold of
+SENSE|An ability to perceive|One of five senses
+SERVE|To provide a service|Help and assist
+SEVEN|The number 7|Between six and eight
+SHADE|An area of darkness|Shadow area
+SHAKE|To move rapidly|Tremble and shiver
+SHALL|Used to express future|Will happen
+SHAME|A feeling of embarrassment|Guilt and dishonour
+SHAPE|The form of an object|Outline and form
+SHARE|To divide between others|Give a portion
+SHARK|A large predatory fish|Ocean hunter
+SHARP|Having a fine edge|Opposite of blunt
+SHEAR|To cut or clip|Sheep shearing
+SHEEP|A wool producing animal|Gives us wool
+SHEER|Very steep or thin|Absolute and utter
+SHELF|A flat board for storage|Books rest here
+SHELL|A hard outer covering|Found on beach
+SHIFT|To move or change|Change position
+SHINE|To emit light|Bright and glowing
+SHIRT|A garment for upper body|Worn with trousers
+SHOCK|A sudden surprise|Unexpected event
+SHORE|Land beside the sea|Beach area
+SHORT|Not tall or long|Brief and small
+SHOUT|To speak very loudly|Yell and cry out
+SIGHT|The ability to see|Visual sense
+SIGMA|A Greek letter|Mathematical symbol
+SILLY|Lacking sense|Foolish and absurd
+SINCE|From a time in past|After that point
+SIXTH|The ordinal of six|Position number six
+SIZED|Of a particular size|Measured dimensions
+SKILL|An ability developed by practice|Learned capability
+SKULL|The bony structure of head|Skeleton head
+SLATE|A type of rock|Used for roofing
+SLAVE|A person owned by another|Historical oppression
+SLEEP|A natural rest state|Unconscious rest
+SLICE|A thin flat piece|Cut portion
+SLIDE|To move smoothly|Slip and glide
+SLOPE|An inclined surface|Hill gradient
+SMALL|Little in size|Opposite of large
+SMART|Intelligent or well dressed|Clever and sharp
+SMELL|To perceive odour|Use your nose
+SMILE|A happy facial expression|Shows happiness
+SMOKE|Gas produced by burning|Rises from fire
+SNAKE|A legless reptile|Slithers on ground
+SOLAR|Relating to the sun|Sun powered
+SOLID|Firm and stable|Not liquid or gas
+SOLVE|To find an answer|Work out problem
+SORRY|Feeling regret|Apology expression
+SOUTH|A direction on compass|Opposite of north
+SPACE|The universe beyond atmosphere|Stars and planets
+SPARE|Extra or to save from|Additional reserve
+SPARK|A small fiery particle|From fire or electricity
+SPEAK|To express in words|Talk and converse
+SPEED|Rate of movement|How fast something goes
+SPEND|To use money|Pay out funds
+SPICE|A flavouring from plants|Makes food tasty
+SPIKE|A sharp pointed object|Sharp projection
+SPINE|The backbone|Column of vertebrae
+SPITE|A desire to hurt|Malicious feeling
+SPLIT|To divide or break|Separate into parts
+SPOKE|Past tense of speak|Said words
+SPOON|A utensil for eating|Scoops up food
+SPORT|Physical activity and competition|Games and athletics
+SPRAY|To scatter liquid|Fine mist
+SQUAD|A small group|Team unit
+STACK|A pile of objects|Layered heap
+STAGE|A platform for performance|Theatre platform
+STAIN|A mark difficult to remove|Dirty mark
+STAIR|A step in a staircase|Goes up or down
+STAKE|A pointed post|Also a wager
+STALE|No longer fresh|Old and dry
+STALL|A small booth|Market stand
+STAMP|To press firmly or postage|Mark with impression
+STAND|To be upright|Vertical position
+STARE|To look fixedly|Gaze intently
+START|To begin|Commence action
+STATE|A condition or territory|Political region
+STAYS|Remains in place|Does not leave
+STEAL|To take without permission|Rob and thieve
+STEAM|Water in gaseous form|From boiling water
+STEEL|A strong metal alloy|Iron and carbon mix
+STEEP|Rising sharply|Very sharp slope
+STEER|To guide direction|Control movement
+STICK|A thin piece of wood|Also to adhere
+STIFF|Not flexible|Rigid and firm
+STILL|Not moving or even now|Motionless state
+STOCK|A supply or shares|Inventory or investment
+STONE|A hard mineral material|Rock fragment
+STORE|A place to buy goods|Shop or warehouse
+STORM|Violent weather|Thunder and lightning
+STORY|A narrative account|Tale told or written
+STOVE|A cooking appliance|Kitchen heater
+STRAP|A narrow strip of material|Fastening band
+STRAW|Dried stalks of grain|Drinking tube too
+STRIP|A long narrow piece|Remove covering
+STUCK|Unable to move|Fixed in place
+STUDY|To learn about a subject|Academic work
+STYLE|A distinctive manner|Fashion and design
+SUGAR|A sweet substance|Added to tea
+SUITE|A set of rooms|Hotel accommodation
+SUNNY|Bright with sunshine|Clear weather
+SUPER|Above average or excellent|Outstanding quality
+SURGE|A sudden powerful increase|Rush forward
+SWAMP|Waterlogged ground|Marshy area
+SWEAR|To take an oath|Solemn promise
+SWEAT|Moisture from skin|Produced by exercise
+SWEEP|To clean with a brush|Brush away
+SWEET|Having a sugary taste|Pleasant flavour
+SWEPT|Past tense of sweep|Cleaned away
+SWIFT|Moving very fast|Quick as a bird
+SWORD|A long bladed weapon|Knights carried this
+SWORN|Having taken an oath|Promised solemnly
+TABLE|A piece of furniture|Used for eating
+TASTE|The sense of flavour|Use your tongue
+TEACH|To instruct|Pass on knowledge
+TEARS|Drops from crying eyes|Shed when sad
+TEETH|Hard structures in mouth|Used for chewing
+THANK|To express gratitude|Show appreciation
+THEME|A subject or topic|Central idea
+THICK|Having great depth|Opposite of thin
+THINK|To use the mind|Contemplate ideas
+THORN|A sharp point on plant|Rose has these
+THOSE|Plural of that|Referring to things
+THREE|The number 3|Between two and four
+THREW|Past tense of throw|Hurled through air
+THUMB|The short thick finger|Opposable digit
+TIGER|A large striped wild cat|Orange and black
+TIGHT|Firmly fixed or close|Not loose
+TIMER|A device that measures time|Counts down
+TIRED|In need of rest|Exhausted feeling
+TITLE|A name or heading|Label of a work
+TODAY|On this present day|Not yesterday
+TOKEN|A symbol or small object|Represents something
+TOOTH|A hard structure in mouth|Used to bite
+TOTAL|The complete amount|Everything added up
+TOUCH|To make contact|Physical contact
+TOUGH|Strong and durable|Hard to break
+TOWER|A tall narrow structure|Castle feature
+TOXIC|Poisonous|Harmful substance
+TRACE|A mark left behind|Faint sign
+TRACK|A path or course|Running circuit
+TRADE|Exchange of goods|Commercial activity
+TRAIL|A path through wilderness|Hiking route
+TRAIN|To practice or vehicle|Learning or transport
+TRAIT|A distinguishing quality|Personal characteristic
+TRAMP|To walk heavily|Vagrant person
+TRAPS|Devices to catch animals|Snares and pitfalls
+TRASH|Waste material|Rubbish and refuse
+TREAD|To walk on|Step upon surface
+TREAT|Something enjoyable|Special reward
+TREMBLE|To shake with fear|Shiver uncontrollably
+TREND|A general direction|Popular fashion
+TRIAL|A test or legal process|Court case
+TRIBE|A social group|Community unit
+TRICK|A clever act|Deceptive manoeuvre
+TRIED|Made an attempt|Gave it a go
+TROOP|A group of soldiers|Military unit
+TROUT|A freshwater fish|Found in rivers
+TRUCK|A large motor vehicle|Carries heavy loads
+TRULY|In a truthful manner|Genuinely and sincerely
+TRUNK|A large box or tree part|Elephant nose too
+TRUST|Firm belief in reliability|Confidence in someone
+TRUTH|That which is true|Fact and reality
+TUMOR|An abnormal growth|Medical condition
+TUNER|A device for tuning|Radio adjuster
+TUNIC|A loose garment|Ancient clothing
+TWIGS|Small thin branches|Sticks from tree
+TWIST|To rotate or turn|Spiral movement
+ULTRA|Extreme or beyond|Going further
+UNCLE|Parent sibling male|Father or mother brother
+UNDER|Below or beneath|Lower position
+UNIFY|To bring together|Make into one
+UNION|A group joined together|Workers organisation
+UNITE|To join together|Combine as one
+UNTIL|Up to a point in time|Before a moment
+UPPER|Higher in position|Above the lower
+UPSET|To disturb or make unhappy|Distressed feeling
+URBAN|Relating to a city|City based
+USAGE|The way something is used|Manner of use
+USHER|To guide or escort|Show to seats
+USUAL|Happening regularly|Normal occurrence
+UTTER|Complete or to speak|Total and absolute
+VAGUE|Not clear or definite|Unclear meaning
+VALID|Legally or logically sound|Acceptable and true
+VALUE|The importance of something|Worth and merit
+VALVE|A device controlling flow|Opens and closes
+VAPOR|A substance in gaseous form|Steam and mist
+VAULT|An arched roof or safe|Secure storage
+VIGOR|Physical strength and energy|Vitality and force
+VIOLA|A stringed musical instrument|Larger than violin
+VIRAL|Spreading rapidly|Goes everywhere fast
+VISIT|To go to see someone|Call upon a person
+VISTA|A pleasing view|Scenic outlook
+VITAL|Essential for life|Critically important
+VIVID|Bright and strong|Intense and clear
+VOCAL|Relating to the voice|Spoken sound
+VOICE|Sound produced by speaking|Human sound
+VOTER|A person who votes|Election participant
+VULVA|Female anatomy|Anatomical term
+WAGER|A bet|Risky stake
+WASTE|To use carelessly|Unnecessary loss
+WATCH|To observe or timepiece|Look at or wear
+WATER|A clear liquid|Essential for life
+WEAVE|To interlace threads|Make fabric
+WEDGE|A triangular shaped object|Doorstop shape
+WEIGH|To measure mass|Find the weight
+WEIRD|Strange and unusual|Bizarre behaviour
+WHALE|A large sea mammal|Largest animal
+WHEAT|A cereal grass|Used to make bread
+WHEEL|A circular rotating object|Round and rolling
+WHERE|In what place|Location question
+WHILE|During the time that|At the same time
+WHITE|The colour of snow|Opposite of black
+WHOLE|Complete and entire|Nothing missing
+WHOSE|Belonging to whom|Ownership question
+WIDEN|To make broader|Increase the width
+WIDOW|A woman whose husband died|Bereaved wife
+WITCH|A person who practises magic|Rides a broomstick
+WOMAN|An adult female|Opposite of man
+WORDS|Units of language|Make up sentences
+WORLD|The earth and all life|Our planet
+WORRY|To feel anxious|Troubled thoughts
+WORSE|More bad than before|Not as good
+WORST|Most bad|Bottom of the scale
+WORTH|The value of something|Deserving of something
+WOULD|Past form of will|Conditional action
+WOUND|An injury|Damaged flesh
+WRIST|The joint between hand and arm|Wear watch here
+WROTE|Past tense of write|Composed words
+YACHT|A large sailing boat|Luxury vessel
+YIELD|To produce or give way|Surrender or produce
+YOUNG|In early stage of life|Not old
+YOURS|Belonging to you|Your possession
+YOUTH|The state of being young|Early years
+ZEBRA|A striped African animal|Black and white stripes
+ZONAL|Relating to zones|Area division
+ABSENT|Not present|Away from place
+ACCENT|A distinctive way of speaking|Regional pronunciation
+ACCEPT|To receive willingly|Agree to take
+ACROSS|From one side to other|Horizontal direction
+ACTION|The process of doing|Something done
+ACTIVE|Engaged in activity|Busy and moving
+ACTUAL|Existing in reality|Real and true
+ADJUST|To alter slightly|Make small change
+ADMIRE|To regard with respect|Look up to someone
+AFFORD|To have enough money|Can pay for it
+AGENDA|A list of items|Meeting plan
+ALMOST|Very nearly|Not quite there
+ALWAYS|At all times|Every single time
+ANIMAL|A living organism|Not a plant
+ANNUAL|Happening every year|Yearly event
+ANSWER|A reply to a question|Response given
+ANYONE|Any person|No specific person
+APPEAR|To come into view|Become visible
+AROUND|On all sides|Encircling something
+ARRIVE|To reach a destination|Come to place
+ASPECT|A particular part|One side of thing
+ASSIST|To help|Give support
+ATTACH|To fasten to|Connect together
+ATTACK|To act against aggressively|Offensive action
+AUTUMN|The season after summer|Falling leaves season
+AVENUE|A wide road|Tree lined street
+BORROW|To take temporarily|Return it later
+BOTTLE|A glass or plastic container|Holds liquid
+BOTTOM|The lowest point|Beneath everything
+BOUNCE|To spring back|Ball movement
+BRANCH|Part of a tree|Also part of business
+BRIDGE|A structure over water|Connects two sides
+BRIGHT|Giving out strong light|Shining brilliantly
+BROKEN|Damaged and not working|In pieces
+BUDGET|A financial plan|Money allocation
+BUTTER|A dairy product|Spread on bread
+BUTTON|A small fastener|On clothing
+CAMERA|A device for taking photos|Captures images
+CANCEL|To call off|Annul an event
+CANDLE|A wax stick giving light|Burns with flame
+CASTLE|A large fortified building|Medieval fortress
+CAUGHT|Past tense of catch|Grabbed and held
+CENTER|Middle point|Central location
+CHANGE|To make different|Alter and modify
+CHARGE|To demand payment|Fee for service
+CHOICE|An act of selecting|Option to pick
+CIRCLE|A round shape|No corners at all
+CLUMSY|Lacking coordination|Prone to accidents
+COARSE|Rough in texture|Not smooth
+COFFEE|A popular hot drink|Made from beans
+COLUMN|A vertical structure|Architectural feature
+COMBAT|To fight against|Battle and struggle
+COMING|Moving towards|Approaching here
+COMMON|Occurring frequently|Shared by many
+COTTON|A natural soft fibre|Used for clothing
+COURSE|A path or subject|Direction or study
+CREATE|To bring into existence|Make something new
+CREDIT|Recognition or money owed|Financial trust
+CRISIS|A time of danger|Emergency situation
+CUSTOM|A traditional practice|Regular habit
+DAMAGE|Harm caused to something|Physical injury
+DANGER|Possibility of harm|Risk and threat
+DECIDE|To make a choice|Reach a conclusion
+DEFEND|To protect from attack|Guard and shield
+DEFINE|To explain meaning|State clearly
+DELETE|To remove or erase|Wipe away data
+DESERT|A dry sandy region|Little rainfall
+DESIGN|A plan or pattern|Creative blueprint
+DETAIL|A small particular fact|Specific information
+DETECT|To discover or find|Uncover hidden thing
+DIFFER|To be unlike|Not the same
+DIRECT|Straight or to manage|Without detour
+DIVIDE|To separate into parts|Split up equally
+DOUBLE|Twice as much|Two times over
+DRAGON|A mythical fire breathing creature|Medieval monster
+DRIVER|A person who drives|Behind the wheel
+DURING|Throughout the time of|In the period of
+EASILY|Without difficulty|Simple manner
+EFFECT|A result or consequence|Outcome of cause
+EFFORT|Physical or mental exertion|Try hard
+EITHER|One or the other|Both are options
+EMERGE|To come out|Appear from within
+EMPIRE|A group of nations|Ruled by emperor
+ENABLE|To make possible|Allow to happen
+ENERGY|The capacity to do work|Power and force
+ENOUGH|As much as needed|Sufficient amount
+ENTIRE|Complete and whole|Everything included
+ESCAPE|To get away from|Run and flee
+EVOLVE|To develop gradually|Change over time
+EXCEED|To go beyond a limit|More than allowed
+EXCEPT|Not including|Apart from this
+EXPAND|To increase in size|Grow and spread
+EXPERT|A person with great skill|Highly knowledgeable
+EXTEND|To make longer|Stretch out further
+FABRIC|A cloth material|Woven textile
+FACTOR|An element that contributes|Contributing cause
+FAILED|Did not succeed|Unsuccessful attempt
+FALLEN|Having come down|Dropped to ground
+FAMILY|A group of related people|Parents and children
+FAMOUS|Known by many people|Widely recognised
+FIGURE|A number or shape|Numerical value
+FINGER|A digit on the hand|Used for pointing
+FINISH|To bring to an end|Complete a task
+FLOWER|A plant bloom|Colourful and fragrant
+FLYING|Moving through the air|Aviation travel
+FOLLOW|To come after|Move behind
+FOREST|A large area of trees|Dense woodland
+FORGET|To fail to remember|Memory lapse
+FORMAL|Following rules or convention|Official and proper
+FORMED|Came into being|Created and shaped
+FOUGHT|Past tense of fight|Battled and struggled
+FROZEN|Turned to ice|Very cold state
+FUTURE|Time that is yet to come|What lies ahead
+GARDEN|An area for growing plants|Outdoor space
+GATHER|To bring together|Collect and assemble
+GENDER|Male or female classification|Biological category
+GENTLE|Mild and kind|Soft and careful
+GLOBAL|Relating to the whole world|Worldwide scale
+GOLDEN|Made of or like gold|Precious colour
+GROUND|The surface of the earth|Under your feet
+GROWTH|The process of growing|Increase in size
+GUITAR|A stringed instrument|Six strings
+HAMMER|A tool for hitting nails|Building tool
+HAPPEN|To take place|Occur and come about
+HARDLY|Almost not at all|Barely manages
+HATRED|Intense dislike|Strong animosity
+HEALTH|The state of being well|Physical wellbeing
+HEIGHT|Measurement from base to top|How tall something is
+HIDDEN|Concealed from view|Out of sight
+HONEST|Truthful and sincere|Not deceptive
+HUNTER|A person who hunts|Pursues animals
+IMPACT|A strong effect|Collision or influence
+IMPORT|To bring goods from abroad|Bring in from outside
+INCOME|Money received regularly|Earnings and wages
+INDEED|In truth or certainly|Truly and really
+INFANT|A very young child|Baby stage
+INJURY|Harm caused to body|Physical damage
+INSIDE|The inner part|Interior location
+INSIST|To demand firmly|Persist and press
+INVEST|To put money into|Financial commitment
+ISLAND|Land surrounded by water|Isolated land mass
+JOYFUL|Full of happiness|Happy and pleased
+JUNGLE|A dense tropical forest|Wild growth
+JUNIOR|Lower in rank or younger|Below senior level
+KNIGHT|A medieval warrior|Armoured fighter
+LANDER|Something that lands|Space craft
+LAUGHTER|The action of laughing|Response to humour
+LAWYER|A legal professional|Practices law
+LEADER|A person who leads|Head of group
+LETTER|A written message|Postal communication
+LIKELY|Probable to happen|Probably true
+LISTEN|To pay attention to sound|Use your ears
+LIVING|Being alive|Alive and existing
+LONELY|Sad from being alone|Without company
+LOSING|Failing to win|Coming in last
+MARKET|A place to buy and sell|Trading location
+MASTER|A person with great skill|Expert level
+MATTER|Physical substance or issue|Relevant concern
+MEADOW|A field of grass|Open grassland
+MENTAL|Relating to the mind|Psychological aspect
+METHOD|A way of doing something|Procedure followed
+MIDDLE|The central point|Between two ends
+MIRROR|A reflective surface|Shows your reflection
+MODERN|Current or contemporary|Up to date
+MOMENT|A very brief time|Short instant
+MURDER|The crime of killing|Illegal killing
+MUSCLE|A tissue producing movement|Body strength
+NARROW|Of small width|Not wide
+NATION|A large community|Country and state
+NATURE|The natural world|Plants and animals
+NEARBY|Not far away|Close in distance
+NEEDLE|A thin pointed sewing tool|Used for stitching
+NORMAL|Conforming to a standard|Usual and typical
+NOTICE|To become aware|Observe and see
+OBJECT|A physical thing|Material item
+OBTAIN|To get or acquire|Come to possess
+OCCUPY|To live in or fill|Take up space
+OFFICE|A room for work|Professional workspace
+OFFICER|A person in authority|Police or military
+ONLINE|Connected to internet|Digital access
+ORANGE|A citrus fruit|Also a colour
+ORIGIN|The beginning or source|Starting point
+PALACE|An official residence|Royal home
+PARENT|A mother or father|Raises children
+PEOPLE|Human beings|Group of persons
+PERMIT|To allow or a licence|Give permission
+PERSON|An individual human|Single human being
+PHRASE|A group of words|Short expression
+PLANET|A large celestial body|Orbits the sun
+PLEASE|To give satisfaction|Make happy
+PLEDGE|A solemn promise|Binding commitment
+POCKET|A small bag in clothing|Holds small items
+POLICE|A law enforcement force|Keeps order
+POLICY|A plan of action|Official guidelines
+POORLY|In bad health|Feeling unwell
+PORTAL|A doorway or entry point|Gateway access
+PREFER|To like better|First choice
+PRINCE|A son of a king|Royal male heir
+PRISON|A place of confinement|Criminals are here
+PROFIT|Financial gain|Revenue over costs
+PROPER|Correct and appropriate|Right and suitable
+PROVEN|Demonstrated to be true|Verified fact
+PUBLIC|Relating to people|Open to all
+PURPLE|A colour between red and blue|Royal colour
+PUZZLE|A problem requiring ingenuity|Brain teaser
+RABBIT|A small furry animal|Hops around
+RACING|Competing in speed|Fast competition
+RANDOM|Made without pattern|No particular order
+RARELY|Not very often|Seldom happens
+REASON|A cause or explanation|Logical basis
+RECENT|Happening not long ago|Just occurred
+RECORD|To write down or best result|Data stored
+REDUCE|To make smaller|Decrease amount
+REFORM|To improve by change|Modify for better
+REMAIN|To stay in place|Continue to be
+REMOTE|Far from others|Distant location
+REPAIR|To fix something|Restore function
+REPEAT|To say or do again|Do once more
+RESCUE|To save from danger|Help escape
+RESIST|To oppose or withstand|Fight against
+RESULT|An outcome|End consequence
+RETURN|To come back|Go back again
+REVEAL|To make known|Show and expose
+REVIEW|An evaluation|Critical assessment
+REWARD|Something given for merit|Prize for achievement
+RHYTHM|A regular pattern|Musical beat
+RISING|Moving upward|Going higher
+ROCKET|A vehicle propelled by jets|Goes to space
+RUBBER|An elastic material|Made from trees
+RUMBLE|A continuous low sound|Deep growling noise
+SAFETY|Freedom from danger|Protected state
+SAMPLE|A small part taken|Example portion
+SAVING|Preserving or setting aside|Keeping for future
+SCHOOL|An institution for learning|Children study here
+SCREEN|A flat display surface|Shows images
+SEASON|One of four periods of year|Spring summer autumn winter
+SECRET|Something kept hidden|Private information
+SEEING|Using the sense of sight|Visual perception
+SENIOR|Higher in rank or older|Above junior level
+SERIES|A number in order|Sequential set
+SETTLE|To establish or resolve|Come to rest
+SILVER|A precious grey metal|Second to gold
+SIMPLE|Easy to understand|Not complicated
+SINGLE|Only one|Not multiple
+SISTER|A female sibling|Same parents girl
+SLIGHT|Small in degree|Minor and trivial
+SOCIAL|Relating to society|Community based
+SOFTEN|To make less hard|Reduce hardness
+SOLDIER|A member of army|Military person
+SOURCE|The origin of something|Starting point
+SPEECH|Spoken language|Verbal communication
+SPIRIT|The non physical part|Soul and essence
+SPRING|Season after winter|New growth season
+STABLE|Not likely to change|Firm and steady
+STATUS|Social or professional position|Standing in society
+STOLEN|Taken without permission|Theft occurred
+STREET|A public road in town|Urban road
+STRESS|A state of mental strain|Pressure and tension
+STRICT|Demanding exact rules|No flexibility
+STRONG|Having great power|Powerful and tough
+STUDIO|A room for creative work|Artist workspace
+STUPID|Lacking intelligence|Foolish and dull
+SUBMIT|To yield or present|Hand in work
+SUDDEN|Happening unexpectedly|Without warning
+SUFFER|To experience pain|Endure hardship
+SUMMER|The warmest season|Hot weather time
+SUPPLY|To provide what is needed|Stock and provide
+SYMBOL|Something representing something|Sign and emblem
+SYSTEM|A set of connected parts|Organised structure
+TARGET|An aim or goal|Object to hit
+THEORY|A set of ideas|Explanatory system
+THOUGH|Despite the fact|In spite of
+THREAT|A warning of harm|Dangerous warning
+TICKET|A piece of paper granting access|Entry pass
+TIMBER|Wood used for building|Construction material
+TISSUE|Soft thin paper or body tissue|Delicate material
+TONGUE|The organ in mouth|Used for tasting
+TRAVEL|To go from place to place|Journey and voyage
+TROPHY|An award for winning|Winner receives this
+TUNNEL|An underground passage|Goes through ground
+TWELVE|The number 12|One dozen
+UNABLE|Not able to do|Lacking capability
+UNIQUE|One of a kind|Nothing like it
+UNLESS|Except on condition|If not the case
+UPDATE|To make current|Refresh information
+USEFUL|Having practical value|Comes in handy
+VALLEY|Low land between hills|Below mountain peaks
+VICTIM|A person harmed|Suffered from crime
+VIEWER|A person who watches|Audience member
+VILLAGE|A small community|Smaller than town
+VIOLET|A purple blue colour|Also a flower
+VIRTUE|A good moral quality|Positive character trait
+VISION|The ability to see|Sight and foresight
+VISUAL|Relating to sight|Can be seen
+VOLUME|Amount of space or sound|Measure of capacity
+WANDER|To walk without purpose|Roam freely
+WEALTH|A large amount of money|Financial abundance
+WEAPON|An instrument of attack|Used in combat
+WEIGHT|The measure of heaviness|How heavy something is
+WINDOW|An opening in a wall|Lets in light
+WINNER|A person who wins|First place person
+WINTER|The coldest season|Snow and ice time
+WISDOM|The quality of being wise|Good judgement
+WONDER|To feel curious|Amazement and awe
+WORKER|A person who works|Employee in job
+WORTHY|Deserving of respect|Meriting something
+YELLOW|A bright warm colour|Colour of sunflowers
+ABILITY|The power to do something|Skill and talent
+ACADEMY|A school or society|Educational institution
+ACCOUNT|A record of money|Financial record
+ACHIEVE|To successfully accomplish|Reach a goal
+ADDRESS|The location of a building|Where you live
+ADVANCE|To move forward|Progress ahead
+ADVISOR|A person who gives advice|Guidance provider
+AGAINST|In opposition to|Opposing side
+ANCIENT|Very old|From long ago
+ANOTHER|One more|Additional one
+ANXIETY|Feeling of worry|Nervous tension
+ATTEMPT|To try to do|Make an effort
+BALANCE|An even distribution|Equilibrium state
+BARRIER|Something blocking progress|Obstacle in way
+BECAUSE|For the reason that|Explaining why
+BELIEVE|To accept as true|Have faith in
+BENEFIT|An advantage gained|Positive outcome
+BETWEEN|In the space separating|In the middle of
+CAPTURE|To take prisoner|Catch and hold
+CAREFUL|Taking great care|Cautious action
+CAUSING|Bringing about|Making happen
+CERTAIN|Known for sure|Definitely true
+CHAPTER|A section of a book|Division of text
+CITIZEN|A member of a country|National person
+CLIMATE|The weather of a region|Long term weather
+COMFORT|A state of ease|Relaxed feeling
+COMMAND|An authoritative order|Direct instruction
+COMPLEX|Having many parts|Not simple
+CONCERN|To worry or relate to|Matter of interest
+CONDUCT|The way one behaves|Manner of acting
+CONNECT|To join together|Link and attach
+CONTEXT|The circumstances|Surrounding situation
+CONTROL|To direct or manage|Have power over
+CORRECT|Free from error|Right and accurate
+COUNTRY|A nation|Political territory
+COURAGE|Bravery in danger|Fearless action
+CULTURE|The arts and social customs|Civilisation ways
+CURRENT|Belonging to present time|Right now
+DECIDED|Made a decision|Reached conclusion
+DEFAULT|A failure to act|Standard setting
+DEFENCE|Protection from attack|Shield from harm
+DELIGHT|Great pleasure|Joyful happiness
+DELIVER|To take to a destination|Bring something
+DESPITE|Without being affected|In spite of
+DEVELOP|To grow or improve|Progress forward
+DIGITAL|Relating to computers|Electronic form
+DISCUSS|To talk about|Examine in conversation
+DISTANT|Far away|Not nearby
+DISTURB|To interrupt peace|Cause disruption
+DRAWING|A picture made with pencil|Artistic sketch
+DYNASTY|A series of rulers|Family rule period
+EXAMINE|To inspect carefully|Look at closely
+EXAMPLE|A thing that represents|Illustrative case
+EXCLUDE|To leave out|Not include
+EXPLORE|To travel to discover|Search and investigate
+EXPRESS|To convey in words|Show and tell
+EXTREME|The furthest degree|Maximum intensity
+FAILURE|Lack of success|Not achieving goal
+FANTASY|Imagined situations|Dream world
+FEATURE|A distinctive aspect|Notable characteristic
+FEELING|An emotion|Internal sensation
+FICTION|Literature that is invented|Made up story
+FINALLY|At the end|Last of all
+FOREIGN|From another country|Not domestic
+FOREVER|For all time|Eternally lasting
+FORMULA|A set method|Mathematical rule
+FORWARD|Towards the front|Ahead direction
+FREEDOM|The state of being free|Liberty and rights
+GENERAL|Relating to all|Broad and wide
+GENUINE|Truly what it appears|Real and authentic
+GETTING|Coming to have|Receiving something
+HISTORY|Past events|Record of the past
+HORIZON|The line where sky meets earth|Distant boundary
+HUNTING|Pursuing animals|Wildlife tracking
+IMAGINE|To form a mental image|Think creatively
+INCLUDE|To comprise as part|Take in everything
+INSPIRE|To fill with enthusiasm|Motivate others
+INSTANT|Happening immediately|Without delay
+INSTEAD|As an alternative|In place of
+INTENSE|Very strong|Extreme degree
+INVOLVE|To include as part|Make part of
+JOURNEY|Travel from one place to another|Trip and voyage
+KEEPING|Retaining possession|Holding onto
+KITCHEN|A room for cooking|Where meals are made
+KNOWING|Having knowledge|Being aware of
+LABELED|Marked with a label|Identified clearly
+LEADING|Going first|Being in front
+LIBRARY|A place with books|Books kept here
+LIMITED|Restricted in amount|Not unlimited
+MACHINE|A mechanical device|Powered by engine
+MEDICAL|Relating to medicine|Health related
+MEETING|A gathering of people|Come together
+MESSAGE|A communication|Information passed
+MILLION|The number 1000000|Very large number
+MISSING|Not present|Cannot be found
+MIXTURE|A combination of things|Blend of elements
+MORNING|The early part of day|Before midday
+NATURAL|Existing in nature|Not artificial
+NETWORK|A system of connections|Linked together
+NOWHERE|Not in any place|No location
+NURSING|Caring for sick people|Medical care
+OBVIOUS|Easily seen|Plain to see
+OPINION|A personal view|Point of view
+OUTSIDE|The external area|Not inside
+PASSION|Strong emotion|Intense feeling
+PATIENT|Able to wait calmly|Medical person too
+PATTERN|A repeated design|Regular arrangement
+PERFECT|Having no flaws|Without error
+PERHAPS|It may be|Possibly true
+PICTURE|A visual image|Photo or painting
+POPULAR|Liked by many|Widely favoured
+PRESENT|Being here now|Current moment
+PREVENT|To stop from happening|Block occurrence
+PROBLEM|A difficult matter|Issue to solve
+PROCESS|A series of actions|Steps to follow
+PRODUCE|To make or create|Bring into being
+PROJECT|A planned undertaking|Organised task
+PROTECT|To keep safe|Guard from harm
+PROVIDE|To supply something|Give what needed
+PURPOSE|The reason for something|Why it exists
+QUALITY|The standard of something|Level of excellence
+QUICKLY|At fast speed|In rapid manner
+REALITY|The state of things as they are|True existence
+RECEIVE|To be given something|Get and accept
+REQUIRE|To need|Make necessary
+RESOLVE|To settle a problem|Find a solution
+RESPECT|Admiration for someone|Hold in esteem
+RESTORE|To bring back|Return to original
+RESULTS|Outcomes of actions|End products
+SECTION|A distinct part|Division of whole
+SERIOUS|Demanding careful thought|Important matter
+SERVICE|The action of helping|Work done for others
+SHARING|Giving a portion to others|Dividing equally
+SILENCE|Complete absence of sound|Total quiet
+SIMILAR|Nearly the same|Almost alike
+SOCIETY|People living together|Community group
+SOLDIER|A person in army|Military fighter
+SOMEONE|A particular person|Individual person
+SPECIES|A group of living things|Biological category
+STATION|A place where trains stop|Transport hub
+STAYING|Remaining in place|Not leaving
+STRANGE|Unusual or odd|Out of ordinary
+SUBJECT|A topic or person|Area of study
+SUCCESS|Achievement of goal|Positive outcome
+SUGGEST|To put forward|Propose an idea
+SUPPORT|To hold up or assist|Give backing to
+SUPPOSE|To assume to be true|Think it might be
+SURFACE|The outside layer|Top or outer part
+SURVIVE|To continue to live|Remain alive
+TEACHER|A person who teaches|Educator in school
+TELLING|Revealing or narrating|Passing on information
+TENSION|Mental or physical strain|Tightness and stress
+THROUGH|From one end to other|All the way across
+TONIGHT|This present night|This evening
+TOTALLY|Completely|One hundred percent
+TOWARDS|In the direction of|Moving to
+TRADING|Buying and selling|Commercial exchange
+TRAFFIC|Vehicles on roads|Movement of cars
+TRAINED|Having received training|Prepared and ready
+TROUBLE|Difficulty or danger|Problem and worry
+TYPICAL|Characteristic of a type|Normal and usual
+UNKNOWN|Not known|Mysterious entity
+UNUSUAL|Not common|Out of ordinary
+UPGRADE|To raise to higher standard|Improve quality
+USUALLY|In most cases|Normally happens
+VICTORY|Success in competition|Winning result
+VILLAGE|A small settlement|Rural community
+VIOLENT|Using physical force|Aggressive action
+VISIBLE|Able to be seen|In plain sight
+WARNING|A statement of danger|Advance notice
+WEATHER|Atmospheric conditions|Climate daily state
+WHETHER|Expressing doubt|If this or that
+WITHOUT|Not having|Lacking something
+YOUNGER|Less old|Not as old
+ABSOLUTE|Complete and total|Without limit
+ABSTRACT|Existing as idea|Not concrete
+ACCIDENT|An unexpected event|Unplanned occurrence
+ACCURATE|Correct and exact|Without error
+ACHIEVED|Successfully done|Goal reached
+ACTIVITY|A thing done|Action taken
+ADDITION|The act of adding|Extra element
+ADEQUATE|Satisfactory for purpose|Good enough
+AMBITION|A strong desire to succeed|Goal and drive
+ANALYSIS|Detailed examination|Careful study
+ANNOUNCE|To make known publicly|Public declaration
+ANYTHING|Whatever thing|No restriction
+ARGUMENT|A reason or disagreement|Debate and dispute
+ATTITUDE|A way of thinking|Mental position
+AUDIENCE|A group of listeners|People watching
+BACKBONE|The spine|Central support
+BALANCED|Even and stable|Equal on both sides
+BARRIERS|Things blocking progress|Obstacles ahead
+BEAUTIFUL|Pleasing to senses|Attractive appearance
+BECOMING|Starting to be|In the process of
+BIRTHDAY|The day of birth|Annual celebration
+BUILDING|A structure|Constructed place
+BUSINESS|Commercial activity|Trade and commerce
+CALENDAR|A chart of dates|Days of year
+CAMPAIGN|An organised effort|Planned operation
+CAPACITY|The maximum amount|Total ability
+CATCHING|Intercepting something|Grabbing and holding
+CATEGORY|A class of things|Group classification
+CHANGING|Becoming different|Undergoing change
+CHARACTER|A person in story|Fictional individual
+CHILDREN|Young people|Sons and daughters
+CHOOSING|Making a selection|Picking an option
+CIRCULAR|In the shape of circle|Round and looped
+CLIMBING|Going upward|Ascending movement
+COLLAPSE|To fall down|Suddenly give way
+COMPLETE|Having all parts|Finished and whole
+COMPOUND|A combination|Mixed together
+COMPUTER|An electronic device|Digital machine
+CONCRETE|A building material|Also specific idea
+CONFLICT|A serious disagreement|Battle and struggle
+CONSIDER|To think carefully|Give thought to
+CONSTANT|Unchanging|Always the same
+CONTINUE|To carry on|Keep going forward
+CONTRACT|A legal agreement|Binding document
+CONVINCE|To persuade|Change someone mind
+COVERING|Placing over something|Hiding underneath
+CREATIVE|Having imagination|Inventive thinking
+CRIMINAL|A person who commits crime|Law breaker
+CULTURAL|Relating to culture|Social and artistic
+DARKNESS|Absence of light|No light present
+DAUGHTER|A female child|Parents girl child
+DEADLINE|A time limit|Final cut off point
+DECISION|A conclusion reached|Choice made
+DECREASE|To become smaller|Reduce in size
+DELIVERY|The act of delivering|Bringing to place
+DESCRIBE|To give account of|Explain in detail
+DETAILED|Having many details|Thorough account
+DIFFERENT|Not the same|Unlike the other
+DIRECTLY|In straight manner|Without deviation
+DISASTER|A sudden calamity|Great catastrophe
+DISCOVER|To find something|Come across new
+DISTANCE|The length between points|How far apart
+DISTRACT|To divert attention|Take focus away
+DOCUMENT|An official paper|Written record
+DOMINANT|Most important|Having most power
+DRAMATIC|Exciting and impressive|Theatrical effect
+DWELLING|A place to live|Home and residence
+ECONOMIC|Relating to economy|Financial system
+EDUCATED|Having received education|Knowledgeable person
+ELECTION|A formal vote|Democratic process
+ELEMENTS|Basic components|Fundamental parts
+EMERGING|Coming into view|Becoming apparent
+EMPHASIS|Special importance|Stress on point
+ENORMOUS|Very large|Extremely big
+ENTRANCE|A way in|Entry point
+EQUALITY|State of being equal|Same rights for all
+EVALUATE|To assess|Judge the value of
+EVIDENCE|Available proof|Supporting facts
+EXPECTED|Thought likely|Anticipated outcome
+EXPLICIT|Clearly stated|Direct and clear
+EXTENDED|Made longer|Stretched further
+FAITHFUL|Loyal and steadfast|Reliable and true
+FAMILIAR|Well known|Recognised easily
+FAVORITE|Most liked thing|Top preference
+FINISHED|Completed|Brought to end
+FLEXIBLE|Able to bend|Adaptable nature
+FORTUNATE|Lucky and blessed|Having good luck
+FUNCTION|Purpose or activity|What it does
+GENERATE|To produce|Create and make
+GENEROUS|Willing to give|Giving freely
+GRADUALLY|Slowly over time|Step by step
+GRATEFUL|Thankful|Appreciating kindness
+GREATEST|Most excellent|Best of all
+GUIDANCE|Advice and direction|Leading someone
+HAPPENED|Took place|Occurred in past
+HARDWARE|Physical computer parts|Tangible equipment
+HERITAGE|Something inherited|Cultural legacy
+HIGHLIGHT|To draw attention to|Mark as important
+HISTORIC|Important in history|Significant past
+HUMANITY|Human beings collectively|All people together
+IDENTIFY|To recognise|Determine what it is
+IMAGINED|Formed in mind|Thought up creatively
+IMMINENT|About to happen|Coming very soon
+IMPROVED|Made better|Enhanced quality
+INFORMED|Having knowledge|Well educated
+INNOCENT|Not guilty|Free from wrongdoing
+INTERACT|To communicate|Act on each other
+INTEREST|Curiosity or money paid|Attention given
+ISOLATED|Far from others|Separated and alone
+JUDGMENT|An opinion formed|Critical assessment
+LANGUAGE|A system of communication|How we speak
+LEARNING|Gaining knowledge|Education process
+LOCATION|A particular place|Where something is
+MAGNETIC|Having properties of magnet|Attracting metal
+MAINTAIN|To keep in good condition|Preserve and uphold
+MAJORITY|More than half|Most of the group
+MEANINGS|What words stand for|Significance given
+MOUNTAIN|A large natural elevation|Higher than a hill
+MOVEMENT|The act of moving|Motion and change
+MULTIPLE|More than one|Several instances
+NEGATIVE|Harmful or refusing|Not positive
+OBSTACLE|Something blocking way|Hindrance to progress
+OCCURRED|Happened or took place|Came about
+OFFENSIVE|Attacking or hurtful|Causing offence
+OFFICIAL|Relating to authority|Formally approved
+ORDINARY|With no special features|Normal and usual
+ORIGINAL|Existing from the start|First version
+OUTCOME|A result or consequence|End result
+OVERCOME|To succeed against|Get past a challenge
+PATIENCE|Ability to wait calmly|Calm endurance
+PEACEFUL|Free from disturbance|Calm and quiet
+PHYSICAL|Relating to body|Bodily and material
+PLEASURE|A feeling of happiness|Enjoyable experience
+POSITION|A place or rank|Location or status
+POSSIBLE|Able to happen|Within capability
+POWERFUL|Having great power|Strong and forceful
+PRACTICE|Repeated exercise|Regular training
+PRESSURE|A force applied|Weight and stress
+PRIORITY|Something most important|First in order
+PROBABLY|Very likely|Almost certain
+PROGRESS|Forward movement|Advancing ahead
+PROPERTY|Something owned|Possession and land
+PROVIDED|Supplied and given|Made available
+QUESTION|A sentence seeking answer|Inquiry made
+RATIONAL|Based on reason|Logical thinking
+REACTION|A response to event|Reply to stimulus
+RECENTLY|Not long ago|Just happened
+REMEMBER|To recall|Bring back to mind
+REPEATED|Done more than once|Occurring again
+REQUIRED|Needed|Made necessary
+RESPONSE|A reply|Answer to question
+SECURITY|State of being protected|Safety and safety
+SELECTED|Chosen from options|Picked out
+SEQUENCE|A particular order|Step by step order
+SHORTAGE|An insufficient supply|Not enough of
+SHOULDER|The joint connecting arm|Body joint above arm
+SIMPLIFY|To make easier|Reduce complexity
+SITUATED|Located in place|Positioned somewhere
+SOLUTION|A means of solving|Answer to problem
+SPECIFIC|Particular and exact|Clearly defined
+STARTING|Beginning an action|Setting off
+STRENGTH|The quality of being strong|Power and force
+SUPERIOR|Higher in rank|Better than others
+
+# Themed entries - animals
+DOG|A loyal domestic animal|Man's best friend|animals
+CAT|A small pet animal|Loves to chase mice|animals
+HORSE|A fast running animal|Used for riding|animals
+ELEPHANT|The largest land animal|Has a trunk|animals
+MONKEY|A playful primate|Climbs trees|animals
+BEAR|A large furry animal|Loves honey|animals
+FOX|A clever wild animal|Has a bushy tail|animals
+GOAT|A farm animal|Eats grass|animals
+SHEEP|A woolly farm animal|Gives wool|animals
+COW|A domestic animal|Gives milk|animals
+PIG|A farm animal|Likes mud|animals
+RABBIT|A small hopping animal|Long ears|animals
+SNAKE|A legless reptile|Slithers|animals
+LIZARD|A small reptile|Climbs walls|animals
+TURTLE|A slow reptile|Has a shell|animals
+CROCODILE|A large reptile|Lives in water|animals
+DOLPHIN|A smart sea animal|Jumps in water|animals
+OCTOPUS|An eight-armed sea animal|Very intelligent|animals
+CRAB|A sea creature|Walks sideways|animals
+PEACOCK|A colorful bird|National bird of India|animals
+SPARROW|A small bird|Common in cities|animals
+OWL|A night bird|Big eyes|animals
+BAT|A flying mammal|Active at night|animals
+KANGAROO|An Australian animal|Jumps with pouch|animals
+KOALA|An Australian animal|Eats eucalyptus|animals
+LEOPARD|A spotted big cat|Fast predator|animals
+HYENA|A scavenger animal|Laugh-like sound|animals
+ANT|A tiny insect|Works in groups|animals
+BEE|An insect|Makes honey|animals
+BUTTERFLY|A colorful insect|Has wings|animals
+
+# Themed entries - space
+EARTH|Our home planet|Supports life|space
+SUN|The center star|Gives light|space
+ASTEROID|A rocky object|Orbits sun|space
+COSMOS|The universe|Everything in space|space
+ALIEN|A being from space|Extraterrestrial|space
+ROVER|A space vehicle|Explores planets|space
+ASTRONAUT|A space traveler|Works in space|space
+TELESCOPE|A viewing device|Observes stars|space
+GRAVITY|Force of attraction|Keeps planets in orbit|space
+ECLIPSE|Shadow event|Sun or moon hidden|space
+SPACESHIP|A vehicle for space|Carries astronauts|space
+LAUNCH|To send into space|Rocket action|space
+BLACKHOLE|A dense region|Nothing escapes|space
+SATELLITE|An object in orbit|Man-made or natural|space
+UNIVERSE|All of space|Everything exists|space
+MILKYWAY|Our galaxy|Contains Earth|space
+PLANET|A celestial body|Orbits a star|space
+DUST|Space particles|Found in nebula|space
+LIGHTYEAR|Distance unit|Used in space|space
+ASTRONOMY|Study of space|Science field|space
+ORBITAL|Relating to orbit|Circular motion|space
+SPACETIME|Concept of physics|Time and space|space
+COSMIC|Relating to universe|Space-related|space
+VOID|Empty space|Nothing inside|space
+EXOPLANET|Planet outside solar system|Orbits other stars|space
+RADIATION|Energy waves|From space|space
+QUASAR|Bright distant object|Active galaxy core|space
+GALILEO|Famous astronomer|Studied space|space
+HUBBLE|Space telescope|Takes images|space
+PROBE|Unmanned spacecraft|Collects data|space
+
+# Themed entries - food
+BURGER|A fast food item|Has a bun|food
+FRIES|Fried potato sticks|Crispy snack|food
+NOODLES|Long thin pasta|Asian dish|food
+RICE|Staple food|Common in Asia|food
+DAL|Lentil dish|Indian food|food
+IDLI|Steamed rice cake|South Indian|food
+DOSA|Thin crispy dish|Made from batter|food
+SAMOSA|Fried snack|Triangle shape|food
+CHOCOLATE|Sweet treat|Made from cocoa|food
+ICECREAM|Frozen dessert|Cold and sweet|food
+JUICE|Fruit drink|Healthy beverage|food
+MILK|Dairy drink|Rich in calcium|food
+TEA|Hot beverage|Popular drink|food
+COFFEE|Caffeinated drink|Keeps you awake|food
+EGG|Protein-rich food|Used in breakfast|food
+CHICKEN|Meat food|Popular protein|food
+FISH|Seafood item|Rich in omega|food
+APPLE|A common fruit|Keeps doctor away|food
+BANANA|Yellow fruit|Rich in potassium|food
+GRAPES|Small fruits|Used for wine|food
+ORANGE|Citrus fruit|Rich in vitamin C|food
+POTATO|A root vegetable|Used in fries|food
+TOMATO|A red vegetable|Used in salads|food
+ONION|A pungent vegetable|Used in cooking|food
+GARLIC|A strong flavoring|Used in dishes|food
+SPICE|Adds flavor|Used in cooking|food
+SALT|Enhances taste|White crystals|food
+PEPPER|Adds heat|Black spice|food
+CAKE|Sweet baked dish|Birthday treat|food
+BISCUIT|A crunchy snack|Tea-time food|food
+
+# Themed entries - sports
+CRICKET|Popular sport in India|Uses bat and ball|sports
+HOCKEY|A stick sport|Played on field|sports
+BASKETBALL|A hoop game|Dribble and shoot|sports
+VOLLEYBALL|Net sport|Hit the ball|sports
+BADMINTON|Racket sport|Uses shuttlecock|sports
+KABADDI|Indian sport|Tag game|sports
+WRESTLING|Combat sport|Uses strength|sports
+ARCHERY|Bow sport|Shoots arrows|sports
+CYCLING|Riding sport|Uses bicycle|sports
+RUNNING|Track sport|Fast movement|sports
+JAVELIN|Throwing sport|Olympic event|sports
+SHOTPUT|Throw heavy ball|Strength sport|sports
+SKATING|Gliding sport|On wheels|sports
+SURFING|Water sport|Ride waves|sports
+ROWING|Boat sport|Uses oars|sports
+DIVING|Water sport|Jump into pool|sports
+CLIMBING|Adventure sport|Climb rocks|sports
+SKIING|Snow sport|Slide on snow|sports
+SNOWBOARD|Winter sport|Board on snow|sports
+FENCING|Sword sport|Protective gear|sports
+KARATE|Martial art|Self-defense|sports
+JUDO|Combat sport|Throws opponent|sports
+TAEKWONDO|Korean martial art|Uses kicks|sports
+BASEBALL|Bat and ball sport|Popular in USA|sports
+SOFTBALL|Similar to baseball|Larger ball|sports
+HANDBALL|Ball sport|Use hands|sports
+DARTS|Target game|Throw darts|sports
+POOL|Cue sport|Balls on table|sports
+CHESS|Mind sport|Strategy game|sports
+LUDO|Board game|Dice-based|sports
+
+# Themed entries - technology
+TABLET|A handheld device|Touchscreen|technology
+KEYBOARD|Input device|Used for typing|technology
+MONITOR|Display screen|Shows output|technology
+PRINTER|Output device|Prints documents|technology
+SCANNER|Input device|Scans images|technology
+SERVER|Powerful computer|Provides services|technology
+CLIENT|User computer|Accesses server|technology
+DATABASE|Stores data|Organized info|technology
+SOFTWARE|Programs|Run on computers|technology
+HARDWARE|Physical parts|Tangible components|technology
+NETWORK|Connected systems|Share data|technology
+INTERNET|Global network|Connects world|technology
+BROWSER|Web tool|Access websites|technology
+WEBSITE|Online page|On internet|technology
+EMAIL|Digital mail|Send messages|technology
+PASSWORD|Security key|Protects accounts|technology
+ENCRYPT|Secure data|Convert code|technology
+FIREWALL|Security system|Blocks threats|technology
+HACKER|Security breaker|Access systems|technology
+ALGORITHM|Step-by-step logic|Used in coding|technology
+DEBUG|Fix errors|In programs|technology
+COMPILE|Convert code|Machine readable|technology
+UPLOAD|Send data online|To server|technology
+DOWNLOAD|Receive data|From internet|technology
+STREAM|Watch online|Live content|technology
+AI|Artificial intelligence|Smart machines|technology
+ML|Machine learning|Data-based learning|technology
+DATA|Information|Used in systems|technology
+CACHE|Temporary storage|Speeds up access|technology
+BACKUP|Data copy|For safety|technology
