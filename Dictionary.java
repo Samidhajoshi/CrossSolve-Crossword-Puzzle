@@ -6,7 +6,6 @@ import java.util.*;
 public class Dictionary {
     private List<WordEntry> entries = new ArrayList<>();
 
-    // Load from file path
     public void loadFromFile(String filename) {
         try (BufferedReader br = new BufferedReader(new FileReader(filename))) {
             loadFromReader(br);
@@ -15,7 +14,6 @@ public class Dictionary {
         }
     }
 
-    // Load from InputStream (for JAR classpath resource)
     public void loadFromStream(InputStream is) {
         try (BufferedReader br = new BufferedReader(new InputStreamReader(is))) {
             loadFromReader(br);
@@ -53,8 +51,6 @@ public class Dictionary {
         return words;
     }
 
-    /** Returns words matching the given theme (case-insensitive).
-     *  If theme is "general" or blank, returns all words. */
     public List<String> getWordsByTheme(String theme) {
         if (theme == null || theme.isBlank() || theme.equalsIgnoreCase("general")) {
             return getAllWords();
@@ -65,7 +61,6 @@ public class Dictionary {
         return words;
     }
 
-    /** Returns sorted unique theme names present in the dictionary. */
     public List<String> getAvailableThemes() {
         Set<String> themes = new TreeSet<>();
         for (WordEntry e : entries) {
