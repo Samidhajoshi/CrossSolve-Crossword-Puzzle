@@ -1,23 +1,23 @@
-🧩 Crossword Puzzle Game
+ Crossword Puzzle Game
 
 A fun and interactive Crossword Puzzle Application built using C++ with a graphical user interface. This project allows users to play crossword puzzles, input answers, and validate solutions in an engaging way.
 
-🚀 Features
-  📝 Interactive crossword grid
+ Features
+   Interactive crossword grid
   
-  🔤 Clue-based word solving (Across & Down)
+   Clue-based word solving (Across & Down)
   
-  ✅ Answer validation system
+   Answer validation system
   
-  💾 File-based puzzle loading
+   File-based puzzle loading
   
-  🎮 User-friendly interface
+   User-friendly interface
   
-  🔄 Dynamic grid updates
+   Dynamic grid updates
   
-  ✨Theme Based Puzzle
+  Theme Based Puzzle
   
-🛠️ Tech Stack
+ Tech Stack
 
   Language: Java
   
