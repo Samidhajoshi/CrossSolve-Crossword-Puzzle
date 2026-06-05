@@ -7,7 +7,7 @@ public class WordPlacer {
 
     public boolean solve(Grid grid, List<String> words) {
         placed.clear();
-        // Sort descending by length - same as C++ sort
+     
         words.sort((a, b) -> b.length() - a.length());
 
         for (int start = 0; start < words.size(); start++) {
