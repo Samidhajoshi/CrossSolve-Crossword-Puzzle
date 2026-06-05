@@ -5,7 +5,6 @@ public class AnswerValidator {
     private static final int BASE = 31;
     private static final int MOD = 1_000_000_007;
 
-   // Rabin-Karp based answer check.
     public boolean check(String answer, String correct) {
         if (answer == null || correct == null) return false;
         if (answer.length() != correct.length()) return false;
@@ -25,10 +24,9 @@ public class AnswerValidator {
             power = (power * BASE) % MOD;
         }
 
-        // Hashes don't match  - definitely wrong
+
         if (hashAnswer != hashCorrect) return false;
 
-        // Hashes match - verify char-by-char to rule out collision
         for (int i = 0; i < n; i++)
             if (Character.toUpperCase(answer.charAt(i)) != Character.toUpperCase(correct.charAt(i)))
                 return false;
