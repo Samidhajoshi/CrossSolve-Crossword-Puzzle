@@ -3,25 +3,26 @@
 A fun and interactive Crossword Puzzle Application built using C++ with a graphical user interface. This project allows users to play crossword puzzles, input answers, and validate solutions in an engaging way.
 
  Features
-   Interactive crossword grid
-  
-   Clue-based word solving (Across & Down)
-  
-   Answer validation system
-  
-   File-based puzzle loading
-  
-   User-friendly interface
-  
-   Dynamic grid updates
-  
-  Theme Based Puzzle
+ 
+    Interactive crossword grid
+   
+    Clue-based word solving (Across & Down)
+   
+    Answer validation system
+   
+    File-based puzzle loading
+   
+    User-friendly interface
+   
+    Dynamic grid updates
+   
+    Theme Based Puzzle
   
  Tech Stack
 
-  Language: Java
-  
-  GUI:Swing
+    Language: Java
+    
+    GUI:Swing
   
   Concepts Used:
   
