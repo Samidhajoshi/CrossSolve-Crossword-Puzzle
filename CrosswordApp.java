@@ -9,7 +9,6 @@ import java.util.List;
 
 public class CrosswordApp extends JFrame {
 
-    // ── colours ──────────────────────────────────────────────────────────────
     private static final Color BG_DARK      = new Color(18,  18,  30);
     private static final Color BG_PANEL     = new Color(28,  28,  46);
     private static final Color BG_CELL      = new Color(38,  38,  60);
@@ -24,7 +23,7 @@ public class CrosswordApp extends JFrame {
     private static final Color CELL_PLAYER  = new Color(49,  87, 115);
     private static final Color NUM_FG       = new Color(246,173,  85);
 
-    // ── core logic ───────────────────────────────────────────────────────────
+
     private Dictionary      dict       = new Dictionary();
     private Grid            grid;
     private WordPlacer      placer     = new WordPlacer();
@@ -33,7 +32,6 @@ public class CrosswordApp extends JFrame {
     private ScoreManager    scorer     = new ScoreManager();
     private FileHandler     fh         = new FileHandler();
 
-    // ── UI components ────────────────────────────────────────────────────────
     private JPanel      gridPanel;
     private JTextArea   acrossArea, downArea;
     private JLabel      scoreLabel, statusLabel, themeLabel;
@@ -45,7 +43,6 @@ public class CrosswordApp extends JFrame {
     private CardLayout  cardLayout;
     private JPanel      setupPanel, gamePanel;
 
-    // setup screen components
     private JComboBox<String> gridSizeCombo;
     private JTextField  themeField;
     private JComboBox<String> themeCombo;
@@ -54,7 +51,7 @@ public class CrosswordApp extends JFrame {
     private boolean showingSolution = false;
     private String  dictPath = "Dictionary.txt";
 
-    // ─────────────────────────────────────────────────────────────────────────
+
     public CrosswordApp() {
         super(" Crossword Puzzle");
         setDefaultCloseOperation(EXIT_ON_CLOSE);
@@ -68,23 +65,23 @@ public class CrosswordApp extends JFrame {
         setVisible(true);
     }
 
-    // ── dictionary loading ────────────────────────────────────────────────────
+
     private void loadDictionary() {
-        // 1. Try to load from JAR classpath resource
+
         try (java.io.InputStream is = getClass().getResourceAsStream("/resources/Dictionary.txt")) {
             if (is != null) {
                 dict.loadFromStream(is);
                 return;
             }
         } catch (Exception ignored) {}
-        // 2. Try file system paths
+
         String[] paths = { "Dictionary.txt", "resources/Dictionary.txt",
                            "src/Dictionary.txt", dictPath };
         for (String p : paths) {
             File f = new File(p);
             if (f.exists()) { dict.loadFromFile(p); dictPath = p; return; }
         }
-        // 3. Let user pick
+       
         JFileChooser jfc = new JFileChooser(".");
         jfc.setDialogTitle("Locate Dictionary.txt");
         jfc.setFileFilter(new FileNameExtensionFilter("Text files","txt"));
@@ -93,12 +90,10 @@ public class CrosswordApp extends JFrame {
             dict.loadFromFile(dictPath);
         }
     }
-
-    // ── top-level UI build ────────────────────────────────────────────────────
     private void buildUI() {
         setLayout(new BorderLayout());
 
-        // Title bar
+
         JPanel titleBar = new JPanel(new BorderLayout());
         titleBar.setBackground(BG_DARK);
         titleBar.setBorder(new EmptyBorder(14, 20, 8, 20));
@@ -135,7 +130,6 @@ public class CrosswordApp extends JFrame {
         cardLayout.show(mainContent, "setup");
     }
 
-    // ── SETUP PANEL ───────────────────────────────────────────────────────────
     private JPanel buildSetupPanel() {
         JPanel p = new JPanel(new GridBagLayout());
         p.setBackground(BG_DARK);
@@ -225,7 +219,7 @@ public class CrosswordApp extends JFrame {
         wordCountLabel.setForeground(cnt < 5 ? ACCENT_RED : TEXT_DIM);
     }
 
-    // ── GAME PANEL ────────────────────────────────────────────────────────────
+
     private JPanel buildGamePanel() {
         JPanel p = new JPanel(new BorderLayout(10, 10));
         p.setBackground(BG_DARK);
@@ -352,7 +346,7 @@ public class CrosswordApp extends JFrame {
         return p;
     }
 
-    // ── game logic ────────────────────────────────────────────────────────────
+
     private void startNewGame() {
         int sizeIdx = gridSizeCombo.getSelectedIndex();
         int size = sizeIdx == 0 ? 10 : sizeIdx == 2 ? 21 : 15;
@@ -489,7 +483,6 @@ public class CrosswordApp extends JFrame {
         }
     }
 
-    // ── grid rendering ────────────────────────────────────────────────────────
     private void drawGrid(Graphics2D g) {
         g.setRenderingHint(RenderingHints.KEY_ANTIALIASING, RenderingHints.VALUE_ANTIALIAS_ON);
         g.setRenderingHint(RenderingHints.KEY_TEXT_ANTIALIASING, RenderingHints.VALUE_TEXT_ANTIALIAS_ON);
@@ -548,7 +541,6 @@ public class CrosswordApp extends JFrame {
         }
     }
 
-    // ── clue list ─────────────────────────────────────────────────────────────
     private void refreshClues() {
         StringBuilder across = new StringBuilder();
         for (ClueEntry e : ca.acrossClues)
@@ -566,7 +558,7 @@ public class CrosswordApp extends JFrame {
         downArea.setCaretPosition(0);
     }
 
-    // ── helpers ───────────────────────────────────────────────────────────────
+
     private void updateScore() {
         scoreLabel.setText("Score: " + scorer.score);
         scoreLabel.setForeground(scorer.score >= 0 ? ACCENT_GREEN : ACCENT_RED);
