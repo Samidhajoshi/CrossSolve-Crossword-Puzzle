@@ -1,6 +1,6 @@
  Crossword Puzzle Game
 
-A fun and interactive Crossword Puzzle Application built using C++ with a graphical user interface. This project allows users to play crossword puzzles, input answers, and validate solutions in an engaging way.
+A fun and interactive Crossword Puzzle Application built using Java with a graphical user interface. This project allows users to play crossword puzzles, input answers, and validate solutions in an engaging way.
 
  Features
  
